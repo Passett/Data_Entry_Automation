@@ -1,2 +1,2 @@
 # Data_Entry_Automation
-This is a script that I wrote that goes to Grants Portal, logs in, and updates our contact information for all subrecipients at the Applicant Event Profile level (1000's of updates). This saved about $5k in labor anytime one of our main contacts leaves.
+This is a script that I wrote that goes to Grants Portal, logs in, and updates our contact information for all subrecipients at the Applicant Event Profile level (1000's of updates). In addition to updating our contacts, it creates a list of contacts that need updates on the subrecipient side as well so that we can reach out to them for updates. This script saves about $5k in labor anytime one of our main contacts leaves.
